@@ -1,0 +1,6 @@
+p{
+    color: aqua;
+}
+p :hover{
+    background-color: yellowgreen;
+}
