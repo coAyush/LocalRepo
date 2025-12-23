@@ -1,0 +1,16 @@
+com\mycompany\nexus\Configuration\WebInitializer.class
+com\mycompany\nexus\Configuration\GeckoConfig.class
+com\mycompany\nexus\controllers\MarketStats.class
+com\mycompany\nexus\service\TestService.class
+com\mycompany\nexus\dto\CoinDTO.class
+com\mycompany\nexus\controllers\Health.class
+com\mycompany\nexus\repository\CoinRepo.class
+com\mycompany\nexus\controllers\CoinController.class
+com\mycompany\nexus\resources\JakartaEE11Resource.class
+com\mycompany\nexus\service\MarketService.class
+com\mycompany\nexus\Configuration\WebConfig.class
+com\mycompany\nexus\Model\Coin.class
+com\mycompany\nexus\service\CoinService.class
+com\mycompany\nexus\JakartaRestConfiguration.class
+com\mycompany\nexus\controllers\Test.class
+com\mycompany\nexus\Configuration\AppConfig.class
